@@ -34,6 +34,9 @@ Although the data is open-source, I treat this project as a **real-world Data En
 
 The focus is not only on writing correct SQL, but also on **data integrity, maintainability, and ETL/ELT best practices** in a modern cloud data warehouse.
 
+<img width="759" height="762" alt="image" src="https://github.com/user-attachments/assets/978851bc-2bf3-44d9-a9ad-61b75a5e5e8f" />
+
+
 ---
 
 ## 🎯 Project Goals
